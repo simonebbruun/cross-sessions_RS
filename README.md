@@ -17,8 +17,14 @@ This is the data and source code for our paper **Learning Recommendations from U
 
 ## Dataset
 
-We publish an anonymized version of the real-world dataset from the insurance domain used to implement all the session-based recommender models.
-Download the 6 files: sessions_train.csv, sessions_test.csv, purchase_events_train.csv, purchase_events_test.csv, filter_train.csv, filter_test.csv
+We publish an anonymized version of the real-world dataset from the insurance domain used to implement all the session-based recommender models.  
+Download the 6 files:  
+sessions_train.csv  
+sessions_test.csv  
+purchase_events_train.csv  
+purchase_events_test.csv  
+filter_train.csv  
+filter_test.csv  
 
 Due to privacy protection, we cannot publish the portfolios and demographic attributes used to implement the insurance baseline models SVD and demographic.
 

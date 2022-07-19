@@ -1,5 +1,5 @@
 # cross-sessions_RS
-This is the data and source code for our paper **Learning Recommendations from User Actions in the Item-poor Insurance Domain**.
+This is the data and source code for our paper [Learning Recommendations from User Actions in the Item-poor Insurance Domain](https://doi.org/10.1145/3523227.3546775).
 
 ## Requirements
 
